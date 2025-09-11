@@ -18,3 +18,5 @@ La aplicación web permite a los usuarios:
 - Al hacer click en "Sortear amigo" la aplicación selecciona un nombre al azar de la lista de participantes.
 - Se valida que haya al menos un nombre en la lista antes de intentar sortear.
 - El nombre del amigo seleccionado se muestra de forma distintiva en la página.
+  
+![Funcionamiento Amigo Secreto](assets/Funcion-Amigo-Secreto.png)
