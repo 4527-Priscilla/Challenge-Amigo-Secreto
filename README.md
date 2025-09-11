@@ -1,4 +1,5 @@
 <h1 align="center"> DESAFÍO AMIGO SECRETO </h1>
+<h2 align="center">:heavy_check_mark: EN FUNCIONAMIENTO :heavy_check_mark:</h2>
 
 ![Portada amigo secreto](assets/Portada-amigo-secreto.jpg)
 
