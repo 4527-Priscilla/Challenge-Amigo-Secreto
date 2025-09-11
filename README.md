@@ -20,3 +20,6 @@ La aplicación web permite a los usuarios:
 - El nombre del amigo seleccionado se muestra de forma distintiva en la página.
   
 ![Funcionamiento Amigo Secreto](assets/Funcion-Amigo-Secreto.png)
+
+### :arrow_forward: Acceso a la página
+https://4527-priscilla.github.io/Challenge-Amigo-Secreto/
