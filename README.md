@@ -45,3 +45,8 @@ C) `**Opcional** Para clonar el repositorio y obtener una copia local del proyec
 
 ### :ballot_box_with_check: Acceso a la página
 https://4527-priscilla.github.io/Challenge-Amigo-Secreto/
+
+#### :large_blue_circle: Créditos:
+**Material Base**: HTML y CSS base proporcionados por Alura Latam One (curso Lógica de Programación).
+
+**Implementación de Lógica**: El desarrollo de la funcionalidad JavaScript fue realizado por el estudiante, siguiendo las instrucciones del curso.
