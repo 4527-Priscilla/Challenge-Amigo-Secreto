@@ -30,10 +30,18 @@ B) `**Opcional** Si deseas inspeccionar o modificar el código, necesitarás un 
 
 C) `**Opcional** Para clonar el repositorio y obtener una copia local del proyecto, necesitarás tener Git instalado.`
 
-### Cómo Usar la Aplicación
-1. `Abrir la aplicación:` Descarga este repositorio o clónalo a tu máquina local. Luego, abre el archivo index.html directamente en tu navegador web.
-2. `Agregar Nombres:` En el campo de texto 'Escribe un nombre', escribe el nombre de cada participante. Haz clic en el botón 'Agregar' después de cada nombre. Verás los nombres aparecer en la lista de 'Amigos Agregados'.
-3. 
+### :arrow_forward: Cómo Usar la Aplicación
+1. `Abrir la aplicación:`
+    - Descarga este repositorio o clónalo a tu máquina local. Luego, abre el archivo index.html directamente en tu navegador web.
+      
+2. `Agregar Nombres:`
+    - Localiza el campo de texto etiquetado como _"Escribe un nombre"_.
+    - Escribe el nombre de cada persona que participará en el sorteo.
+    - Haz clic en el botón _"Añadir"_ después de cada nombre. Los nombres se irán listando en la sección de amigos agregados.
+      
+3. `Realizar el Sorteo:`
+    - Una vez que todos los participantes hayan sido agregados (se recomienda un mínimo de dos personas para un sorteo significativo), haz clic en el botón _"Sortear amigo"_.
+    - La aplicación seleccionará un nombre aleatorio de la lista y lo mostrará en el área de resultados.
 
-### :arrow_forward: Acceso a la página
+### :ballot_box_with_check: Acceso a la página
 https://4527-priscilla.github.io/Challenge-Amigo-Secreto/
