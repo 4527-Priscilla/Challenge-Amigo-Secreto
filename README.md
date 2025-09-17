@@ -21,5 +21,19 @@ La aplicación web permite a los usuarios:
   
 ![Funcionamiento Amigo Secreto](assets/Funcion-Amigo-Secreto.png)
 
+### :wrench: Requisitos 
+Para visualizar y utilizar esta aplicación web, solo necesitas:
+
+A) `Un navegador web moderno (ej. Google Chrome, Mozilla Firefox, Microsoft Edge, Safari)`
+
+B) `**Opcional** Si deseas inspeccionar o modificar el código, necesitarás un editor de texto o IDE. En este caso, el código se trabajó en Visual Studio Code`
+
+C) `**Opcional** Para clonar el repositorio y obtener una copia local del proyecto, necesitarás tener Git instalado.`
+
+### Cómo Usar la Aplicación
+1. `Abrir la aplicación:` Descarga este repositorio o clónalo a tu máquina local. Luego, abre el archivo index.html directamente en tu navegador web.
+2. `Agregar Nombres:` En el campo de texto 'Escribe un nombre', escribe el nombre de cada participante. Haz clic en el botón 'Agregar' después de cada nombre. Verás los nombres aparecer en la lista de 'Amigos Agregados'.
+3. 
+
 ### :arrow_forward: Acceso a la página
 https://4527-priscilla.github.io/Challenge-Amigo-Secreto/
